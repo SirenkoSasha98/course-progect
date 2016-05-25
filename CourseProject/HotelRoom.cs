@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -78,12 +78,12 @@ namespace CourseProject
         {
             get { return classofRoom; }
         }
-        public HotelRoom(int NumberofPlace, int NumberofHotelRoom,int NumberofFloor, string ClassofRoom,int prise )
+        public HotelRoom(int NumberofPlace, int NumberofHotelRoom,int NumberofFloor, string ClassofRoom,int prise, bool emptyornot)
         {
-            emptyOrNot = true;
+            emptyOrNot = emptyornot;
             numberofPlace = NumberofPlace;
             numberofHotelRoom = NumberofHotelRoom;
-           //if (ClassofRoom != "Standart" || ClassofRoom!="Luxe") throw new //exception
+            //if (ClassofRoom != "Standart" || ClassofRoom!="Luxe") throw new //exception
             numberofFloor = NumberofFloor;
             classofRoom = ClassofRoom;
             priseforDay = prise;

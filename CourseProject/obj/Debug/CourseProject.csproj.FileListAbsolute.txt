@@ -1,0 +1,9 @@
+c:\users\тома\documents\visual studio 2013\Projects\CourseProject\CourseProject\bin\Debug\CourseProject.exe.config
+C:\Users\Тома\Documents\Visual Studio 2013\Projects\CourseProject\CourseProject\bin\Debug\CourseProject.exe
+C:\Users\Тома\Documents\Visual Studio 2013\Projects\CourseProject\CourseProject\bin\Debug\CourseProject.pdb
+C:\Users\Тома\Documents\Visual Studio 2013\Projects\CourseProject\CourseProject\obj\Debug\CourseProject.csprojResolveAssemblyReference.cache
+C:\Users\Тома\Documents\Visual Studio 2013\Projects\CourseProject\CourseProject\obj\Debug\CourseProject.Form1.resources
+C:\Users\Тома\Documents\Visual Studio 2013\Projects\CourseProject\CourseProject\obj\Debug\CourseProject.Properties.Resources.resources
+C:\Users\Тома\Documents\Visual Studio 2013\Projects\CourseProject\CourseProject\obj\Debug\CourseProject.csproj.GenerateResource.Cache
+C:\Users\Тома\Documents\Visual Studio 2013\Projects\CourseProject\CourseProject\obj\Debug\CourseProject.exe
+C:\Users\Тома\Documents\Visual Studio 2013\Projects\CourseProject\CourseProject\obj\Debug\CourseProject.pdb
