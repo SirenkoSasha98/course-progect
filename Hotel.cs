@@ -6,12 +6,32 @@ using System.Threading.Tasks;
 
 namespace CourseProject
 {
-    class Hotel
+    public class Hotel
     {
+        private string name;
         private int countofFloor;
-        public Hotel(int CountofFloor)
+        private int countofRooms;
+        public List<HotelRoom> listRoom = new List<HotelRoom>();
+        public string Name
+        {
+            get { return name; }
+        }
+        public int CountofRooms
+        {
+            get
+            {
+                return countofRooms;
+            }
+        }
+        public int CountofFloor
+        {
+            get { return countofFloor; }
+        }
+        public Hotel(int CountofFloor,int CountofRooms,string Name)
         {
             countofFloor = CountofFloor;
+            countofRooms = CountofRooms;
+            name = Name;
         }
     }
 }
